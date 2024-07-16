@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/vladsemak/Desktop/github/testove/planetLearn/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_7aba7cfa"
+    "chunkName": "pages/index"
   }
 ]
