@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/v-form.js": "components/v-form.js",
+    "components/v-header.js": "components/v-header.js",
+    "components/v-hero.js": "components/v-hero.js",
+    "components/v-popup.js": "components/v-popup.js",
+    "components/v-rewards.js": "components/v-rewards.js",
+    "components/v-select.js": "components/v-select.js",
+    "components/v-timer.js": "components/v-timer.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/v-form.js": "components/v-form.js.map",
+    "components/v-header.js": "components/v-header.js.map",
+    "components/v-hero.js": "components/v-hero.js.map",
+    "components/v-popup.js": "components/v-popup.js.map",
+    "components/v-rewards.js": "components/v-rewards.js.map",
+    "components/v-select.js": "components/v-select.js.map",
+    "components/v-timer.js": "components/v-timer.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

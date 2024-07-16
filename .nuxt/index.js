@@ -13,7 +13,7 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_782514db from 'nuxt_plugin_plugin_782514db' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_15a68b25 from 'nuxt_plugin_plugin_15a68b25' // Source: ./components/plugin.js (mode: 'all')
 import nuxt_plugin_mask_9266ba40 from 'nuxt_plugin_mask_9266ba40' // Source: ../plugins/mask (mode: 'all')
 import nuxt_plugin_veevalidate_346f6561 from 'nuxt_plugin_veevalidate_346f6561' // Source: ../plugins/vee-validate (mode: 'all')
 
@@ -212,8 +212,8 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_782514db === 'function') {
-    await nuxt_plugin_plugin_782514db(app.context, inject)
+  if (typeof nuxt_plugin_plugin_15a68b25 === 'function') {
+    await nuxt_plugin_plugin_15a68b25(app.context, inject)
   }
 
   if (typeof nuxt_plugin_mask_9266ba40 === 'function') {

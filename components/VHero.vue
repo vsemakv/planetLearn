@@ -44,9 +44,6 @@ export default {
         },
     },
     mounted() {
-        setInterval(() => {
-
-        }, 1000)
         setTimeout(() => {
             this.timeOut = true
         }, 180000)
